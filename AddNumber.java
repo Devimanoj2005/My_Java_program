@@ -1,3 +1,6 @@
+package AddNumber;
+
+
 import java.util.Scanner;
 
 

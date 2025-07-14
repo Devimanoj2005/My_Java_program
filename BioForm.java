@@ -13,6 +13,14 @@ public class BioForm{
        System.out.println("ENTER YOUR PERSENTAGE OF ATTANDANCE: ");
        float Attendence = Sc.nextFloat();
 
+        System.err.println("MY DETALIES");
+        System.out.println("Full Name: " +  Name);
+        System.out.println("Age: " + Age );
+        System.out.println("Mobile number: " +  MobileNumber  );
+        System.out.println("CGPA: " + Cgpa );
+        System.out.println("Attandence Mark:  " +  Attendence + " .");
+
+
 
 
     }
